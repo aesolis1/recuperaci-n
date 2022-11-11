@@ -1,0 +1,253 @@
+header{
+    width: 1920px;
+    height: 133px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 200px;
+    gap: 568px;
+}
+
+.logo_ozart{
+    width: 190px;
+    height: 85px;
+}
+.logo_ozart img{
+    width: 190px;
+    height: 85px;
+}
+
+.lupa{
+    width: 35px;
+    height: 30px;
+}
+.lupa img{
+    width: 35px;
+    height: 30px;
+}
+
+.menú{
+    width: 120px;
+    height: 40px;
+}
+.menú img{
+    width: 120px;
+    height: 40px;
+}
+
+
+.hero_zone{
+    width: 85rem;
+    height: 10rem;
+    margin-top: 2rem;
+    margin-left: 20rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+
+}
+.hello1{
+    width: 100%;
+    height: 5rem;
+    margin-top: 1rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+}
+.linea{
+    width: 55px;
+    height: 0px;
+    margin-top: 2rem;
+    border: 2px solid #333333;
+    display: flex;
+    flex-direction: row;
+}
+
+.hello{
+    width: 20rem;
+    height: 20rem;
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+.hello p{
+    font-size: xx-large;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 39px;
+}
+
+.hero_zone2{
+    width: 85rem;
+    height: 50rem;
+    margin-left: 20rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+}
+
+.texto1{
+    width: 85rem;
+    height: 25rem;
+    margin-top: 1rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+}
+.texto1 h1{
+    width: 100%;
+    height: 10rem;
+    background-color: rgb(255, 255, 255);
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 74px;
+    line-height: 88px;
+}
+.texto1 h2{
+    width: 899px;
+    height: 94px;
+    margin-top: 1.3rem;
+    background-color: rgb(255, 255, 255);
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+}
+.texto1 h3{
+    width: 899px;
+    height: 56px;
+    margin-top: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+}
+.foto{
+    width: 530px;
+    height: 600px;
+    margin-left: 14rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4px;
+    gap: 4px;
+}
+.foto img{
+    width: 530px;
+    height: 600px;
+}
+
+
+.redes{
+    width: auto;
+    height: 5rem;
+    margin-top: 10rem;
+    margin-left: 20rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+}
+.facebook{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4px;
+    gap: 4px;
+}
+.facebook img{
+    width: 30px;
+    height: 30px;
+}
+.linkedin{
+    width: 30px;
+    height: 30px;
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4px;
+    gap: 4px;
+}
+.linkedin img{
+    width: 30px;
+    height: 30px;
+}
+
+.behance{
+    width: 35px;
+    height: 35px;
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4px;
+    gap: 4px;
+}
+.behance img{
+    width: 35px;
+    height: 35px;
+}
+
+.twitter{
+    width: 25px;
+    height: 25px;
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4px;
+    gap: 4px;
+}
+.twitter img{
+    width: 25px;
+    height: 25px;
+}
+
+.dribble{
+    width: 25px;
+    height: 25px;
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4px;
+    gap: 4px;
+}
+.dribble img{
+    width: 25px;
+    height: 25px;
+}
+
+.redes p{
+    width: 66px;
+    height: 21px;
+    margin-top: 0.8rem;
+    margin-left: 55rem;
+
+    font-weight: 100;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #6e6d6d;
+}
+
+.flecha{
+    width: 25px;
+    height: 35px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 50rem;
+}
+
+.flecha img{
+    width: 25px;
+    height: 35px;
+}

@@ -1,0 +1,78 @@
+.portfolio{
+    width: 125rem;
+    height: 5rem;
+    margin-top: 20rem;
+    margin-left: 35rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+.portfolio h1{
+    width: 229px;
+    height: 64px;
+    margin-left: 9rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 37px;
+    line-height: 64px;
+}
+
+
+.All{
+    width: 125rem;
+    height: 3rem;
+    margin-top: 6rem;
+    margin-left: 35rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.All h1{
+    width: 23px;
+    height: 21px;
+    margin-left: 5rem;
+    color: rgb(73, 73, 73);
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    line-height: 21px;
+    font-weight: 600;
+}
+
+.linea1{
+    width: 8px;
+    height: 0px;
+    margin-left: 2rem;
+    border: 1px solid #333333;
+}
+
+.All h2{
+    width: 63px;
+    height: 21px;
+    margin-left: 2rem;
+    color: rgb(73, 73, 73);
+    font-size: 15px;
+    
+}
+.All h3{
+    width: 127px;
+    height: 21px;
+    margin-left: 2rem;
+    color: rgb(73, 73, 73);
+    font-size: 15px;
+}
+.All h4{
+    width: 151px;
+    height: 21px;
+    margin-left: 2rem;
+    color: rgb(73, 73, 73);
+    font-size: 15px;
+}
+
+

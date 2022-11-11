@@ -1,0 +1,164 @@
+.testimonial{
+    width: 125rem;
+    height: 5rem;
+    margin-top: 20rem;
+    margin-left: 35rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+.testimonial p{
+    
+    color:  #333333;
+    font-style: normal;
+    font-size: 40px; 
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+}
+
+
+.client{
+    width: 140rem;
+    height: 10rem;
+    margin-top: 3rem;
+    margin-left: 25rem;
+    background-color: rgb(199, 176, 176);
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.comillas{
+    width: 85rem;
+    height: 30rem;
+    margin-top: 1rem;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.comillas h1{
+    width: 100%;
+    height: 5rem;
+    background-color: rgb(255, 255, 255);
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 88px;
+}
+.comillas h2{
+    width: 899px;
+    height: 150px;
+    margin-top: 0.5rem;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 47px;
+}
+.comillas p{
+    width: 5rem;
+    height: 5rem;
+    margin-left: 80rem;
+    background-color: rgb(255, 255, 255);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 88px;
+}
+
+.comillas h3{
+    width: 934px;
+    height: 33px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif,Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+
+    color: #333333;
+    margin-top: 15rem;
+}
+.comillas h4{
+    width: 934px;
+    height: 33px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 33px;
+
+    color: #333333;
+    margin-top: 0.5rem;
+}
+
+.puntos{
+    width: 135rem;
+    height: 2rem;
+    margin-top: 42rem;
+    margin-left: 35rem;
+    display: flex;
+    flex-direction: row;
+    background-color: var(--color4);
+    align-items: center;    
+}
+
+.punt1{
+    margin-left: 45rem;
+    box-sizing: border-box;
+    border-radius: 20rem;
+    width: 20px;
+    height: 20px;
+    border: 7px solid #333333;
+}
+.punt2{
+    margin-left: 3rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 20rem;
+    background: #333333;
+}
+.punt3{
+    margin-left: 3rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 20rem;
+    background: #333333;
+}
+.punt4{
+    margin-left: 3rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 20rem;
+    background: #333333;
+}
+.flechass{
+    width: 8rem;
+    height: 2rem;
+    margin-left: 65rem;
+}
+.flechass img{
+    width: 8rem;
+    height: 2rem;
+}
+
+.señor{
+    width: 530px;
+    height: 600px;
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4px;
+    gap: 4px;
+}
+.señor img{
+    width: 450px;
+    height: 550px;
+}

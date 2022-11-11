@@ -1,0 +1,11 @@
+.just{
+    width: 192rem;
+    height: 60rem;
+    margin-top: 12rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.just img{
+    width: 100%;
+    height: 60rem;
+}

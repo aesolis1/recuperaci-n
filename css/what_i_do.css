@@ -1,0 +1,236 @@
+.Do{
+    width: 1540px;
+    height: 5rem;
+    margin-top: 20rem;
+    margin-left: 20rem;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.Do h1{
+    color:  #333333;
+    font-style: normal;
+    font-size: 40px;
+}
+
+
+
+
+
+.cajas_grises{
+    width: 125rem;
+    height: 45rem;
+    margin-top: 3rem;
+    margin-left: 35rem;
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.caja_gris_1{
+    width: 380px;
+    height: 409px;
+    background-color:  #333333;;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    line-height: 120px;
+    margin: 5px;
+    padding: 1rem;
+}
+
+.caja_gris_1 h1{
+    margin-left: 2rem;
+    font-size: 5rem;
+    margin-top: 7rem;
+    line-height: 5rem;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: var(--color4);
+}
+.caja_gris_1 p{
+    margin-left: 2rem;
+    font-size: 2rem;
+    margin-top: 3rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: var(--color1);
+}
+.caja_gris_1 h4{
+    margin-top: 5.5rem;
+    margin-left: 2rem;
+    font-size: 2rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: var(--color4);
+    
+
+}
+.caja_gris_1 h4 img{
+    width: 5rem;
+    height: 1.5rem;
+    margin-left: 15rem;
+}
+
+
+
+
+
+.caja_gris_2{
+    width: 380px;
+    height: 409px;
+    background-color: #D6D6D6;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    line-height: 120px;
+    margin: 5px;
+    padding: 1rem;
+}
+
+.caja_gris_2 h1{
+    margin-left: 2rem;
+    font-size: 5rem;
+    margin-top: 7rem;
+    line-height: 5rem;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: var(--color6);
+}
+.caja_gris_2 p{
+    margin-left: 2rem;
+    font-size: 2rem;
+    margin-top: 3rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: var(--color6);
+}
+.caja_gris_2 h4{
+    margin-top: 5.5rem;
+    margin-left: 2rem;
+    font-size: 2rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: var(--color6);
+    
+
+}
+.caja_gris_2 h4 img{
+    width: 5rem;
+    height: 2rem;
+    margin-left: 15rem;
+}
+
+
+
+
+
+
+.caja_gris_3{
+    width: 380px;
+    height: 409px;
+    background-color: #D6D6D6;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    line-height: 120px;
+    margin: 5px;
+    padding: 1rem;
+}
+.caja_gris_3 h1{
+    margin-left: 2rem;
+    font-size: 4.5rem;
+    margin-top: 7rem;
+    line-height: 5rem;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: var(--color6);
+}
+.caja_gris_3 p{
+    margin-left: 2rem;
+    font-size: 2rem;
+    margin-top: 3rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: var(--color6);
+}
+.caja_gris_3 h4{
+    margin-top: 5.5rem;
+    margin-left: 2rem;
+    font-size: 2rem;
+    line-height: 2.5rem;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: var(--color6);
+    
+
+}
+.caja_gris_3 h4 img{
+    width: 5rem;
+    height: 2rem;
+    margin-left: 15rem;
+}
+
+
+.puntitos{
+    width: 125rem;
+    height: 2rem;
+    margin-top: 2rem;
+    margin-left: 35rem;
+    display: flex;
+    flex-direction: row;
+    background-color: var(--color4);
+    align-items: center;
+    justify-content: end;
+    
+}
+
+.punto1{
+    box-sizing: border-box;
+    border-radius: 20rem;
+    width: 20px;
+    height: 20px;
+    border: 7px solid #333333;
+}
+.punto2{
+    margin-left: 3rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 20rem;
+    background: #333333;
+}
+.punto3{
+    margin-left: 3rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 20rem;
+    background: #333333;
+}
+
+.flechas{
+    width: 8rem;
+    height: 2rem;
+    margin-left: 49rem;
+}
+.flechas img{
+    width: 8rem;
+    height: 2rem;
+}
